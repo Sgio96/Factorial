@@ -1,0 +1,12 @@
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\obj\Debug\Factorial.vbprojAssemblyReference.cache
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\obj\Debug\Factorial.Form1.resources
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\obj\Debug\Factorial.Resources.resources
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\obj\Debug\Factorial.vbproj.GenerateResource.cache
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\obj\Debug\Factorial.vbproj.CoreCompileInputs.cache
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\bin\Debug\Factorial.xml
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\obj\Debug\Factorial.xml
+C:\Users\moral\OneDrive\Documentos\GitHub\Factorial\Factorial\obj\Debug\Factorial.pdb
